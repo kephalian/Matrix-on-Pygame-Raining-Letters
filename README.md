@@ -15,3 +15,5 @@ Matrix like immersive 'Raining Letters' game in Pygame, featuring fullscreen dis
 
 5. **Customizable and Exciting:**
    With easily modifiable parameters, such as letter colors and display modes, this Pygame script serves as a versatile template for creating personalized and exciting falling-letter games.
+   
+![Alt Text](https://github.com/kephalian/Matrix-on-Pygame-Raining-Letters/blob/main/Screenshot%20from%202023-11-26%2011-28-29.png)
