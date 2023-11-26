@@ -1,7 +1,19 @@
 # Matrix-on-Pygame-Raining-Letters By the Certified GEEK Dr Santhosh K. R. 
 Matrix like immersive 'Raining Letters' game in Pygame, featuring fullscreen display, dynamic falling letters in vibrant fluorescent green (Chatgpt).
 
-![Just like the Matrix movie Wikipedia](https://en.wikipedia.org/wiki/The_Matrix)
+[Just like the Matrix movie Wikipedia](https://en.wikipedia.org/wiki/The_Matrix)
+
+
+*** Get here**
+Program needs Python and Pygame  module
+Download python from website.
+****python -m pip install pygame****
+
+Green version like the greek fav Matrix movie
+[Click here](https://github.com/kephalian/Matrix-on-Pygame-Raining-Letters/blob/main/matrix%20green%20abcd.py)
+
+White version 
+
 
 1. **Raining Letters Game in Pygame:**
    Experience the classic "Raining Letters" game implemented in Python using the Pygame library. The display is set to fullscreen for immersive gameplay.
